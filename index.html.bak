@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <link rel="stylesheet" href="4.css">
+  <link rel="stylesheet" href="ram.css">
   <link href="" rel="stylesheet">
 </head>
 <body>
@@ -272,7 +272,7 @@
     <div class="footer3"> <h4>TANU</h4> learn more</div>
   </footer>
   <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
-  <script src="4.js"></script>
+  <script src="ram.js"></script>
 </body>
 </html>
 
